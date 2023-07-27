@@ -5,16 +5,16 @@
 ![Screenshot 2023-07-27 221851](https://github.com/priyanka680shaw/Resume/assets/96192066/ea51ee2e-4afc-4c3b-858a-ddfcbc4af514)
 ![Screenshot 2023-07-27 221912](https://github.com/priyanka680shaw/Resume/assets/96192066/8f8dbef0-dbe3-431f-8789-675e6652f238)
 ![Screenshot 2023-07-27 222006](https://github.com/priyanka680shaw/Resume/assets/96192066/36abf379-6720-4205-bfc3-a81634f0865f)
-h1:headiing
-p:paragraph
-a:creatin link and href:path
-hr:horizontalline
-h2: heading
-b:bold sentence
-ul:bullet marks
-ol:serial no
-li:list
-dl:ddescription list
-dt:description title
-dd:description data
-pre:preformated (as it is output)
+h1:headiing,
+p:paragraph,
+a:creatin link and href:path,
+hr:horizontalline,
+h2: heading,
+b:bold sentence,
+ul:bullet marks,
+ol:serial no,
+li:list,
+dl:ddescription list,
+dt:description title,
+dd:description data,
+pre:preformated (as it is output),
